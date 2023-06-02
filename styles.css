@@ -3,23 +3,23 @@ background-color: GREEN !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(5) > .panelHeader {
-background-color: GREEN !important;
+background-color: PURPLE !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(6) > .panelHeader {
-background-color: GREEN !important;
+background-color: BLUE !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(7) > .panelHeader {
-background-color: GREEN !important;
+background-color: GRAY !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(8) > .panelHeader {
-background-color: GREEN !important;
+background-color: RED !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(9) > .panelHeader {
-background-color: GREEN !important;
+background-color: ORANGE !important;
 }	
 
 
