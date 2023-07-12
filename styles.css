@@ -8,7 +8,7 @@ background-color: PURPLE !important;
 }	
 
 .panel.conf-macro.output-block:nth-child(2) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader {
-background-color: black;
+background-color: BLACK !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(3) > .panelContent {
