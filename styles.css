@@ -1,4 +1,4 @@
-div.panel.conf-macro.output-block:nth-child(4) > .panelContent {
+div.panel.conf-macro.output-block:nth-child(4) {
   background-color: rgba(227,25,55); /* NO TOCAR */
   background-image: linear-gradient(to right, rgba(227,25,55), rgba(168,36,101), rgba(82,54,171)); /* MODIFICAR LOS COLORES DE GRADIENTE */
 }	
