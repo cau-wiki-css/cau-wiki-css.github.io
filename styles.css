@@ -7,7 +7,7 @@ div.panel.conf-macro.output-block:nth-child(2) > .panelContent {
 background-color: PURPLE !important;
 }	
 
-div.panel.conf-macro.output-block:nth-child(2) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader {
+div.panel.conf-macro.output-block:nth-child(2) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader:nth-child(1) {
 background-color: RED !important;
 }	
 
@@ -15,7 +15,7 @@ div.panel.conf-macro.output-block:nth-child(3) > .panelContent {
 background-color: BLUE !important;
 }	
 
-div.panel.conf-macro.output-block:nth-child(2) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader {
+div.panel.conf-macro.output-block:nth-child(3) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader:nth-child(1) {
 background-color: RED !important;
 }	
 
