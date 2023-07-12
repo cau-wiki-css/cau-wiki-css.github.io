@@ -1,28 +1,47 @@
-div.panel.conf-macro.output-block:nth-child(4) {
+div.panel.conf-macro.output-block:nth-child(1) {
   background-color: rgba(227,25,55); /* NO TOCAR */
   background-image: linear-gradient(to right, rgba(227,25,55), rgba(168,36,101), rgba(82,54,171)); /* MODIFICAR LOS COLORES DE GRADIENTE */
 }	
 
-div.panel.conf-macro.output-block:nth-child(5) > .panelContent {
+div.panel.conf-macro.output-block:nth-child(2) > .panelContent {
 background-color: PURPLE !important;
 }	
 
-div.panel.conf-macro.output-block:nth-child(6) > .panelContent {
+div.panel.conf-macro.output-block:nth-child(3) > .panelContent {
 background-color: BLUE !important;
 }	
 
-div.panel.conf-macro.output-block:nth-child(7) > .panelContent {
+div.panel.conf-macro.output-block:nth-child(4) > .panelContent {
 background-color: GRAY !important;
 }	
 
-div.panel.conf-macro.output-block:nth-child(8) > .panelContent {
+div.panel.conf-macro.output-block:nth-child(5) > .panelContent {
 background-color: RED !important;
 }	
 
-div.panel.conf-macro.output-block:nth-child(9) > .panelContent {
+div.panel.conf-macro.output-block:nth-child(6) > .panelContent {
 background-color: ORANGE !important;
 }	
 
+div.panel.conf-macro.output-block:nth-child(7) > .panelContent {
+background-color: PURPLE !important;
+}	
+
+div.panel.conf-macro.output-block:nth-child(8) > .panelContent {
+background-color: BLUE !important;
+}	
+
+div.panel.conf-macro.output-block:nth-child(9) > .panelContent {
+background-color: GRAY !important;
+}	
+
+div.panel.conf-macro.output-block:nth-child(10) > .panelContent {
+background-color: RED !important;
+}	
+
+div.panel.conf-macro.output-block:nth-child(11) > .panelContent {
+background-color: ORANGE !important;
+}	
 
  > div.sectionMacro > div.sectionMacroRow > div.columnMacro > div.panel.conf-macro.output-block:nth-child(2) > .panelContent {
 background-color: GREEN !important;
