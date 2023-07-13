@@ -1,5 +1,5 @@
 div.panel.conf-macro.output-block:nth-child(1) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader {
-  background-color: GREEN;
+  background-color: GREEN !important;
 }
 
 div.panel.conf-macro.output-block:nth-child(1) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader:nth-child(1) {
@@ -11,7 +11,7 @@ background-color: PURPLE !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(2) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader:nth-child(1) {
-background-color: GRAY;
+background-color: GRAY !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(3) > .panelContent {
@@ -19,7 +19,7 @@ background-color: BLUE !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(3) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader:nth-child(1) {
-background-color: FUCSIA;
+background-color: FUCSIA !important;
 }	
 
 div.panel.conf-macro.output-block:nth-child(4) > .panelContent {
