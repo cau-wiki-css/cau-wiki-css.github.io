@@ -1,11 +1,10 @@
-div.panel.conf-macro.output-block:nth-child(1) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader {
-  background-color: rgba(227,25,55); /* NO TOCAR */
-  background-image: linear-gradient(to right, rgba(227,25,55), rgba(168,36,101), rgba(82,54,171)); /* MODIFICAR LOS COLORES DE GRADIENTE */
-}	
+/* div.panel.conf-macro.output-block:nth-child(1) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader {
+  background-color: rgba(227,25,55);
+  background-image: linear-gradient(to right, rgba(227,25,55), rgba(168,36,101), rgba(82,54,171));
+}	 */
 
 div.panel.conf-macro.output-block:nth-child(1) > .panelContent > .sectionColumnWrapper.conf-macro.output-block > .sectionMacro > .sectionMacroRow > .columnMacro.conf-macro.output-block > .panel.conf-macro.output-block > .panelHeader:nth-child(1) {
   background-color: BLACK;
-
 }	
 
 div.panel.conf-macro.output-block:nth-child(2) > .panelContent {
